@@ -167,11 +167,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Database: MSSQL, MYSQL & MangoDB
+      - name: Database :- MSSQL, MYSQL & MangoDB
         level: 
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Programming :- Java, C, C# & C++J avascript & jQuery
+        level: 
 
       - name: Angular
         level: 98%
