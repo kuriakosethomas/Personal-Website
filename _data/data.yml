@@ -167,8 +167,8 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Database: MSSQL, MYSQL & MangoDB
+        level: 
 
       - name: Javascript & jQuery
         level: 98%
